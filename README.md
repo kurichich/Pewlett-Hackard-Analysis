@@ -17,6 +17,7 @@ This project explains the updates made to the PlanMyTrip app.
 ### Create a Customer Travel Destinations Map : Vacation_Search folder contents - 
   - Vacation_Search.ipynb
   - WeatherPy_vacation.csv
+  - WeatherPy_database.csv
   - WeatheryPy_vacation_map.png
 
 ### Create a Travel Itinery Map : Vacation_Itinerary folder contents - 
